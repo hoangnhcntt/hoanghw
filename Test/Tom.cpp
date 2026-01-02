@@ -1,6 +1,5 @@
 #include <iostream>
-abc
-def
+
 using namespace std;
 
 // Hàm tìm kiếm nhị phân
